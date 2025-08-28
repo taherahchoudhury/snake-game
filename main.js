@@ -286,6 +286,9 @@ function startGame() {
 
 startGame();
 
+document.getElementById("restartBtn").addEventListener("click", restartGame);
+
+
 
 
 
