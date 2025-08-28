@@ -5,3 +5,5 @@ Features:
 - Snake moves and grows when it eats an apple
 - Snake resets when it collides with itself
 - Score and Highscore tracker
+
+Play Here: https://taherahchoudhury.github.io/snake-game/
