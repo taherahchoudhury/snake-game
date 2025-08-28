@@ -7,4 +7,4 @@ Features:
 - Snake resets when it collides with itself
 - Score and Highscore tracker
 
-Play Here: 
+Play Here: https://taherahchoudhury.github.io/snake-game/
